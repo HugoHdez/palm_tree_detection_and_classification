@@ -1,1 +1,4 @@
 *.pth
+cls_models/*
+yolo_models/*
+*.pt
