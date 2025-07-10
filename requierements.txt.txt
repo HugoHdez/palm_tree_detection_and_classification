@@ -1,0 +1,10 @@
+matplotlib==3.10.1
+seaborn==0.13.2
+scikit-learn==1.6.1
+numpy==2.2.5
+torch==2.7.0+cu118
+torchvision==0.22.0+cu118
+ultralytics==8.3.142
+opencv-python==4.10.0.84
+pandas==2.2.3
+tqdm==4.67.1
